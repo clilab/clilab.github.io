@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Changzhi Li"
   avatar           : "cli.jpg"
-  bio              : "Professor</br>Department of Electrical & Computer Engineering (Room 211)</br>Texas Tech University</br>1012 Boston Ave, Lubbock, TX 79409-3102</br>Ph: 806-834-8682</br>Fax:806-742-1245</br>e-mail:changzhi.li(at)ttu(dot)edu"
+  bio              : "Professor</br>Department of Electrical & Computer Engineering (Room 211)</br>Texas Tech University</br>1012 Boston Ave, Lubbock, TX 79409-3102</br></br>Ph: 806-834-8682</br>Fax: 806-742-1245</br>Email: changzhi.li(at)ttu(dot)edu"
   location         : "Lubbock, Texas"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
