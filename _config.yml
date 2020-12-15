@@ -11,7 +11,7 @@ title                    : "RF and Analog Research, Texas Tech University"
 title_separator          : "-"
 name                     : &name "Changzhi Li"
 description              : &description "RF and Analog Research"
-url                      : https://clilab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rookiepeng.github.io/clilab.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "clilab/clilab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr. Changzhi Li"
   avatar           : "cli.jpg"
-  bio              : "Professor</br>Department of Electrical & Computer Engineering (Room 211)"
+  bio              : "Professor</br>Department of Electrical & Computer Engineering (Room 211)</br>Texas Tech University</br>1012 Boston Ave, Lubbock, TX 79409-3102</br>Ph: 806-834-8682</br>Fax:806-742-1245</br>e-mail:changzhi.li(at)ttu(dot)edu"
   location         : "Lubbock, Texas"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Hx6pVv4AAAAJ&hl=en"
-  email            : "changzhi.li(at)ttu(dot)edu"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
