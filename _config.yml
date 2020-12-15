@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Changzhi Li"
-  avatar           : "profile.png"
+  avatar           : "cli.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Lubbock, Texas"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=Hx6pVv4AAAAJ&hl=en"
+  email            : "changzhi.li(at)ttu(dot)edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

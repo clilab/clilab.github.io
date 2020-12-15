@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Biography"
+title: "RF and Analog Research"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# Biography
 
 Dr. Changzhi Li received the B.S. degree in electrical engineering from Zhejiang University, China, in 2004 and the Ph.D. degree in electrical engineering from the University of Florida, Gainesville, FL, in 2009.
 
@@ -17,8 +19,8 @@ Dr. Li was a recipient of the IEEE Microwave Theory and Techniques Society (MTT-
 Please refer to his [Google Scholar profile](http://scholar.google.com/citations?user=Hx6pVv4AAAAJ&hl=en) for his publications.
 
 
-News Release
-======
+# News Release
+
 ***“Texas Tech Reengineers Its Microwave Engineering Course To Make For A More Vivid And Hands-On Experience”***
 
 > AWR: [http://www.awrcorp.com/customer-stories/texas-tech-university-teaching](http://www.awrcorp.com/customer-stories/texas-tech-university-teaching)
@@ -28,8 +30,8 @@ News Release
 > Science Daily: [http://www.sciencedaily.com/releases/2008/12/081202170826.htm](http://www.sciencedaily.com/releases/2008/12/081202170826.htm)
 
 
-Useful Links
-======
+# Useful Links
+
 - To use our radar sensor for your project, visit the *[iMotion radar](https://sites.google.com/site/imotionradar/home)* website
 - Radar research videos: [YouTube playlist](https://www.youtube.com/playlist?list=PL8pR23L-R7oVtj-XsV4Y7dmyFIFfGFw3y) 
 - ADS simulation file for Doppler radar vital sign detection: [PolarDemodulation_prj.zip](http://www.webpages.ttu.edu/chali/PolarDemodulation_prj.zip)
