@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "RF and Analog Research"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Biography
 
 Dr. Changzhi Li received the B.S. degree in electrical engineering from Zhejiang University, China, in 2004 and the Ph.D. degree in electrical engineering from the University of Florida, Gainesville, FL, in 2009.
 
