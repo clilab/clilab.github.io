@@ -2,6 +2,24 @@
 main:
   - title: "iMotion"
     url: https://sites.google.com/site/imotionradar/
+  
+  - title: "Courses"
+    url: https://sites.google.com/site/clilabsite/courses
+
+  - title: "Publications"
+    url: https://sites.google.com/site/clilabsite/publications
+
+  - title: "Research"
+    url: https://sites.google.com/site/clilabsite/research
+
+  - title: "Members"
+    url: https://sites.google.com/site/clilabsite/alumni
+
+  - title: "cli Lab Wiki"
+    url: https://sites.google.com/site/clilabsite/home
+  
+  - title: "CV"
+    url: https://www.dropbox.com/s/t8sl92tvcmrqnub/CV_Changzhi.pdf?dl=0
 
   # - title: "Publications"
   #   url: /publications/
