@@ -1,22 +1,43 @@
 # main links links
 main:
+  - title: "iMotion"
+    url: https://sites.google.com/site/imotionradar/
+  
+  - title: "Courses"
+    url: https://sites.google.com/site/clilabsite/courses
+
   - title: "Publications"
-    url: /publications/
+    url: https://sites.google.com/site/clilabsite/publications
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research"
+    url: https://sites.google.com/site/clilabsite/research
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Members"
+    url: https://sites.google.com/site/clilabsite/alumni
+
+  - title: "cli Lab Wiki"
+    url: https://sites.google.com/site/clilabsite/home
+  
   - title: "CV"
-    url: /cv/
+    url: https://www.dropbox.com/s/t8sl92tvcmrqnub/CV_Changzhi.pdf?dl=0
+
+  # - title: "Publications"
+  #   url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  # - title: "CV"
+  #   url: /cv/
+    
+  # - title: "Guide"
+  #   url: /markdown/
