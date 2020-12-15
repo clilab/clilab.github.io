@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CliLab"
+title                    : "RF and Analog Research, Texas Tech University"
 title_separator          : "-"
 name                     : &name "Changzhi Li"
 description              : &description "personal description"
