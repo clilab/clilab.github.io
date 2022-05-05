@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Changzhi Li received the B.S. degree in electrical engineering from Zhejiang University, China, in 2004 and the Ph.D. degree in electrical engineering from the University of Florida, Gainesville, FL, in 2009.
-
-In the summers of 2007–2009, he was first with Alereon inc. Ausitn, TX, USA and then Coherent Logix inc. Austin, TX, USA, where he was involved with ultrawideband (UWB) transceivers and software-defined radio, respectively. His research interest is microwave/millimeter-wave sensing for healthcare, security, energy efficiency, structural monitoring, and human-machine interface.
+Dr. Changzhi Li received the B.S. degree in electrical engineering from Zhejiang University, China, in 2004, and the Ph.D. degree in electrical engineering from the University of Florida, Gainesville, FL, in 2009. He is a Professor at Texas Tech University. His research interest is microwave/millimeter-wave sensing for healthcare, security, energy efficiency, structural monitoring, and human-machine interface.
 
 Dr. Li was a recipient of the IEEE Microwave Theory and Techniques Society (MTT-S) Outstanding Young Engineer Award, the IEEE Sensors Council Early Career Technical Achievement Award, the [ASEE Frederick Emmons Terman Award](https://www.asee.org/member-resources/awards/full-list-of-awards/awards-archive/division-awards-archive/electrical-and-computer-engineering-division), the IEEE-HKN Outstanding Young Professional Award, the NSF Faculty Early CAREER Award, and the IEEE MTT-S Graduate Fellowship Award. He is an Associate Editor of the IEEE TRANSACTIONS ON MICROWAVE THEORY AND TECHNIQUES and the IEEE JOURNAL OF ELECTROMAGNETICS, RF AND MICROWAVES IN MEDICINE AND BIOLOGY. He was an Associate Editor for the IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I from 2016 to 2019 and the IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II from 2014 to 2015. He served as a TPC Co-Chair for the IEEE MTT-S International Microwave Biomedical Conference in 2018 and 2019, and the IEEE Wireless and Microwave Technology Conference in 2012 and 2013.
 
