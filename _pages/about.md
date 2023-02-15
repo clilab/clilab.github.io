@@ -17,13 +17,10 @@ Please refer to his [Google Scholar profile](http://scholar.google.com/citations
 
 # News Release
 
-***“Texas Tech Reengineers Its Microwave Engineering Course To Make For A More Vivid And Hands-On Experience”***
+*** IEEE Radio Wireless Week 2024 will take place in 21–24 January, 2024, Grand Hyatt San Antonio River Walk, San Antonio, TX, USA
+*** Paper submission deadline: 25-July-2023
 
-> AWR: [http://www.awrcorp.com/customer-stories/texas-tech-university-teaching](http://www.awrcorp.com/customer-stories/texas-tech-university-teaching)
-
-***“Wireless Crib Monitor Keeps Tabs On Baby's Breathing”***
-
-> Science Daily: [http://www.sciencedaily.com/releases/2008/12/081202170826.htm](http://www.sciencedaily.com/releases/2008/12/081202170826.htm)
+> RWW website: [https://www.radiowirelessweek.org/](https://www.radiowirelessweek.org/)
 
 
 # Useful Links
