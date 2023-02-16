@@ -17,9 +17,9 @@ Please refer to his [Google Scholar profile](http://scholar.google.com/citations
 
 # News Release
 
-<span style="color:blue"> >IEEE Radio Wireless Week 2024 will take place 21–24 January, 2024 in Grand Hyatt, San Antonio River Walk, San Antonio, TX, USA
+## <span style="color:blue" >IEEE Radio Wireless Week 2024 will take place 21–24 January, 2024 in Grand Hyatt, San Antonio River Walk, San Antonio, TX, USA
 
-<span style="color:blue" >Paper submission deadline: 25-July-2023
+## <span style="color:blue" >Paper submission deadline: 25-July-2023
 - website: [https://www.radiowirelessweek.org/](https://www.radiowirelessweek.org/)
 
 
