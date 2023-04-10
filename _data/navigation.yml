@@ -4,9 +4,8 @@ main:
     url: https://sites.google.com/site/imotionradar/
   
   - title: "Members"
-    url: https://sites.google.com/site/clilabsite/alumni  - title: "Courses"
-    url: https://sites.google.com/site/clilabsite/courses
-
+    url: https://sites.google.com/site/clilabsite/alumni  
+  
   - title: "Publications"
     url: https://sites.google.com/site/clilabsite/publications
 
@@ -15,6 +14,9 @@ main:
 
   - title: "cli Lab Wiki"
     url: https://sites.google.com/site/clilabsite/home
+    
+  - title: "Courses"
+    url: https://sites.google.com/site/clilabsite/courses
   
   - title: "CV"
     url: https://www.dropbox.com/s/t8sl92tvcmrqnub/CV_Changzhi.pdf?dl=0
