@@ -3,7 +3,8 @@ main:
   - title: "iMotion"
     url: https://sites.google.com/site/imotionradar/
   
-  - title: "Courses"
+  - title: "Members"
+    url: https://sites.google.com/site/clilabsite/alumni  - title: "Courses"
     url: https://sites.google.com/site/clilabsite/courses
 
   - title: "Publications"
@@ -11,9 +12,6 @@ main:
 
   - title: "Research"
     url: https://sites.google.com/site/clilabsite/research
-
-  - title: "Members"
-    url: https://sites.google.com/site/clilabsite/alumni
 
   - title: "cli Lab Wiki"
     url: https://sites.google.com/site/clilabsite/home
