@@ -25,7 +25,7 @@ Please refer to his [Google Scholar profile](http://scholar.google.com/citations
 
 # Useful Links
 
-- To use our radar sensor for your project, visit the *[iMotion radar](https://sites.google.com/site/imotionradar/home)* website
+- Radar simulation tool developed by Dr. Zhengyu Peng: [https://radarsimx.com](https://radarsimx.com) 
 - Radar research videos: [YouTube playlist](https://www.youtube.com/playlist?list=PL8pR23L-R7oVtj-XsV4Y7dmyFIFfGFw3y) 
 - ADS simulation file for Doppler radar vital sign detection: [PolarDemodulation_prj.zip](http://www.webpages.ttu.edu/chali/PolarDemodulation_prj.zip)
 - Some radar data for share: [radar data](https://sites.google.com/site/clilabsite/radar-projects/data-share)
