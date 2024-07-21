@@ -17,6 +17,7 @@ Please refer to his [Google Scholar profile](http://scholar.google.com/citations
 
 # Useful Links
 
+- Aaron Carman's video tutorial link on Cadence Virtuoso, AWR Microwave Office, and electronics: [www.youtube.com/@aaroncarman/playlists](https://www.youtube.com/@aaroncarman/playlists) 
 - Radar simulation tool developed by Dr. Zhengyu Peng: [https://radarsimx.com](https://radarsimx.com) 
 - Radar research videos: [YouTube playlist](https://www.youtube.com/playlist?list=PL8pR23L-R7oVtj-XsV4Y7dmyFIFfGFw3y) 
 - ADS simulation file for Doppler radar vital sign detection: [PolarDemodulation_prj.zip](http://www.webpages.ttu.edu/chali/PolarDemodulation_prj.zip)
