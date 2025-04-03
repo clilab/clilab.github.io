@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Changzhi Li received the B.S. degree in electrical engineering from Zhejiang University, China, in 2004, and the Ph.D. degree in electrical engineering from the University of Florida, Gainesville, FL, in 2009. He is a Professor at Texas Tech University. His research interest is microwave/millimeter-wave sensing for healthcare, security, energy efficiency, structural monitoring, and human-machine interface.
+Dr. Changzhi Li received the B.S. degree in electrical engineering from Zhejiang University, China, in 2004, and the Ph.D. degree in electrical engineering from the University of Florida in 2009. He is a Professor at Texas Tech University. His research interest is microwave/millimeter-wave technologies and their sensing applications.
 
-Dr. Li is an IEEE Microwave Theory and Techniques Society (MTT-S) Distinguished Microwave Lecturer, in the Tatsuo Itoh class of 2022-2024. He was a recipient of the IEEE MTT-S Outstanding Young Engineer Award, the IEEE Sensors Council Early Career Technical Achievement Award, the ASEE Frederick Emmons Terman Award, the IEEE-HKN Outstanding Young Professional Award, and the NSF Faculty Early CAREER Award. He is a Fellow of the IEEE and a Fellow of the National Academy of Inventors (NAI).
+Dr. Li was an IEEE Microwave Theory and Techniques Society (MTT-S) Distinguished Microwave Lecturer, in the Tatsuo Itoh class of 2022-2024, and the General Chair of the 2024 IEEE Radio Wireless Week (RWW) in San Antonio, TX. He was a recipient of the IET A F Harvey Prize, the IEEE MTT-S Outstanding Young Engineer Award, the IEEE Sensors Council Early Career Technical Achievement Award, the ASEE Frederick Emmons Terman Award, the IEEE-HKN Outstanding Young Professional Award, and the NSF Faculty CAREER Award. Dr. Li is a Fellow of the IEEE, the National Academy of Inventors (NAI), and the American Institute for Medical and Biological Engineering (AIMBE).
 
 Please refer to his [Google Scholar profile](http://scholar.google.com/citations?user=Hx6pVv4AAAAJ&hl=en) for his publications.
 
